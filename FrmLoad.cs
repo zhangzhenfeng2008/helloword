@@ -27,6 +27,7 @@ namespace MysqlClient
             worker.RunWorkerCompleted += worker_RunWorkerCompleted;
             worker.ProgressChanged += worker_ProgressChanged;
             worker.WorkerReportsProgress = true;
+			int i=0;
 
 
         }
