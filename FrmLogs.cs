@@ -33,12 +33,9 @@ namespace MysqlClient
             maskedTextBox2.GotFocus += maskedTextBox1_GotFocus;
             maskedTextBox2.Tag = false;
 			2321321
-<<<<<<< HEAD
 			heheh
-=======
 			timeee
 			123
->>>>>>> 5c76a6ac27300f1596dedf5542581723f39ac196
         }
 
         void maskedTextBox1_MouseUp(object sender, MouseEventArgs e)
