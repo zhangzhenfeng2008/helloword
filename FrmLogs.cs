@@ -34,6 +34,7 @@ namespace MysqlClient
             maskedTextBox2.Tag = false;
 			2321321
 			timeee
+			123
         }
 
         void maskedTextBox1_MouseUp(object sender, MouseEventArgs e)
