@@ -1,0 +1,14 @@
+E:\excel\excelWork\excelWork\bin\Release\excelWork.exe
+E:\excel\excelWork\excelWork\bin\Release\excelWork.pdb
+E:\excel\excelWork\excelWork\bin\Release\HtmlAgilityPack.dll
+E:\excel\excelWork\excelWork\bin\Release\HtmlAgilityPack.pdb
+E:\excel\excelWork\excelWork\bin\Release\HtmlAgilityPack.xml
+E:\excel\excelWork\excelWork\obj\Release\excelWork.Form1.resources
+E:\excel\excelWork\excelWork\obj\Release\excelWork.Properties.Resources.resources
+E:\excel\excelWork\excelWork\obj\Release\excelWork.csproj.GenerateResource.Cache
+E:\excel\excelWork\excelWork\obj\Release\excelWork.exe
+E:\excel\excelWork\excelWork\obj\Release\excelWork.pdb
+E:\excel\excelWork\excelWork\obj\Release\excelWork.csproj.ResolveComReference.cache
+E:\excel\excelWork\excelWork\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\excel\excelWork\excelWork\bin\Release\office.dll
+E:\excel\excelWork\excelWork\bin\Release\Microsoft.Vbe.Interop.dll
